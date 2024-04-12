@@ -4,6 +4,6 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,rust,svelte,astro,tauri,prisma,docker,linux" alt="TypeScript, Rust, Svelte (Kit), Astro, Tauri, Prisma, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=ts,rust,svelte,astro,tauri,prisma,docker,blender, linux" alt="TypeScript, Rust, Svelte (Kit), Astro, Tauri, Prisma, Docker, Blender ,Linux">
   </a>
 </p>
