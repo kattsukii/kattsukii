@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm kattsukii! 👋</h1>
-<p align="center">I work on websites, browser extensions, web, mobile, and desktop applications.</p>
+<p align="center">I work on websites, web, mobile, and desktop applications.</p>
 
 ## My Stack
 <p align="center">
