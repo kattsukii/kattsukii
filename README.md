@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sumter! 👋</h1>
+<h1 align="center">Hi there, I'm kattsukii! 👋</h1>
 <p align="center">I work on websites, browser extensions, web, mobile, and desktop applications.</p>
 
 ## My Stack
